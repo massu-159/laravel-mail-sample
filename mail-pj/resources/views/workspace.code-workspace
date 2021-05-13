@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../../my-site01/my-site"
+	},
+	{
+		"path": "../../../../Local Sites/wordpressexercise/app/public/wp-content/themes/practice"
+	},
+	{
+		"path": "../.."
+	}
+],
+  "settings": {}
+}
